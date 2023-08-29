@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model EStoreConnect.Models.ListCategory
+<div style="background-color: #574d4d;">
+    <form method="post" action="/Product/Insert">
+        <table class="table table-bordered" style="width:50%;margin-left:350px;margin-top:40px">
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">Product Category:</th>
+                <th style="background-color:#b9b7b6">
+                    <select name="ProductCategory">
+                        <option>Select category</option>
+                        @foreach (var item in Model.pCategories)
+                        {
+                            <option value="@item.pcategory">@item.pcategory</option>
+                        }
+                    </select>
+                </th>
+            </tr>
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">Product SubCategory:</th>
+                <th style="background-color:#b9b7b6">
+                    <select name="ProductSubCategory">
+                        <option>Select Subcategory</option>
+                        @foreach (var item in Model.pSubcategories)
+                        {
+                            <option value="@item.psubcategory">@item.psubcategory</option>
+                        }
+                    </select>
+                </th>
+            </tr>
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">ProductName:</th>
+                <th style="background-color:#b9b7b6"><input type="text" name="pname" placeholder="Enter ProductName" required /></th>
+            </tr>
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">ProductWeight:</th>
+                <th style="background-color:#b9b7b6"><input type="number" name="pweight_" placeholder="Enter Product Weight" required /></th>
+            </tr>
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">Product pmanufature:</th>
+                <th style="background-color:#b9b7b6"><input type="text" name="pmanufacture" placeholder="Enter Product manufacture" required /></th>
+            </tr>
+
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">Product price Before:</th>
+                <th style="background-color:#b9b7b6"><input type="number" name="p_price_before" placeholder="Enter Product price before" required /></th>
+            </tr>
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">Product price After:</th>
+                <th style="background-color:#b9b7b6"><input type="number" name="p_price_after" placeholder="Enter Product price After" required /></th>
+            </tr>
+            <tr>
+                <th style="background-color:#5a5656;color:aliceblue">Product Image:</th>
+                @*<th style="background-color:#b9b7b6"><input type="file" name="pimage" required /></th>*@
+            </tr>
+            <tr>
+                <th colspan="2" style="background-color:#a16868;">
+                    <center>
+                        <input type="submit" class=" btn btn-success" />
+                        <input type="reset" class=" btn btn-info" />
+                    </center>
+                </th>
+            </tr>
+        </table>
+    </form>
+</div>
+

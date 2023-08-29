@@ -1,0 +1,36 @@
+﻿
+
+@{
+    ViewBag.Title = "EditCategory";
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model  EStoreConnect.Models.ProductCategory
+<div>
+
+    <div class="table table-bordered" style="display: flex; justify-content: center; align-items: center; width: 50%; margin-left: 300px; background-color: #574d4d; border-color: #574d4d ">
+        <form method="post" action="/Product/EditCategory/@Model.pcatId">
+            <table>
+                <tr>
+                    <th style="color:white">Category:</th>
+                    <th><input type="text" placeholder="Enter Category" name="pcategory" value="@Model.pcategory" required /></th>
+                </tr>
+                <tr style="margin:10px">
+                    <th style="color:white">Category Description:</th>
+                    <th><textarea cols="25" rows="4" name="cat_description" required>"@Model.cat_description"</textarea>
+                    
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="2"><center><button class="btn btn-warning">Edit</button></center></th>
+                </tr>
+            </table>
+        </form>
+    </div>
+   
+    }
+
+</div>
+
+
+
+

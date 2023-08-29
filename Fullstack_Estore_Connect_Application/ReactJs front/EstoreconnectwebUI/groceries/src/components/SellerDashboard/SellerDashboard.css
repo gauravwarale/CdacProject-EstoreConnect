@@ -1,0 +1,28 @@
+.mainHeader {
+  /* margin-top: 2vh !important; */
+
+  background: white;
+  padding: 7px;
+  margin-bottom: 3vh !important;
+  color: blue;
+}
+.rowSize {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+.rowMargin {
+  margin-left: 7vw;
+  margin-right: 7vw;
+  background: #b8cdff;
+  padding: 2rem;
+  /* box-shadow: 1px aliceblue; */
+  border: 1px solid black;
+}
+.tableSellerHeader {
+  font-size: 18px;
+  font-weight: 400;
+}
+.kaypan {
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+}

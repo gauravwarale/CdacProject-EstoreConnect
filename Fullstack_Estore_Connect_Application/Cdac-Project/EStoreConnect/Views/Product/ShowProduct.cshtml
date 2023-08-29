@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "ShowProduct";
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model EStoreConnect.Models.ShowProduct
+<div class="jumbotron" style="justify-content:center; justify-items:center; display:flex"><h2>AllProducts</h2></div>
+<div>
+    @if (Model.plist.Count == 0)
+    {
+        <center><h3 class="page-header" style="font-family:'Times New Roman';align-content:center;color:white">No Product Deteils!!</h3></center>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+
+                    <th>Product ID</th>
+                    <th>Product Name</th>
+                    <th>product category</th>
+                    <th>Product Subcategory</th>
+                    <th>Product Weight</th>
+                    <th>Manufacture</th>
+                    <th>Price Before</th>
+                    <th>Price After</th>
+                    <th>Product Image</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.plist)
+                {
+                    <tr>
+                        <th>@item.Id</th>
+                        <th>@item.pname</th>
+                         <th>@item.ProductDeteil.ProductCategory.pcategory</th>
+                        <th>@item.ProductDeteil.ProductSubcategory.psubcategory</th>
+                        <th>@item.pweight_</th>
+                        <th>@item.pmanufacture</th>
+                        <th>@item.p_price_before</th>
+                        <th>@item.p_price_after</th>
+                        <th><img src="~/Logo/producticon.jpg" height="100" width="100" /></th>
+                        <th>
+                            <a class="btn btn-info" href="/Product/EditProduct/@item.Id">Edit</a>
+                            <a class="btn btn-danger" href="/Product/DeleteProduct/@item.Id">Delete</a>
+                        </th>
+                    </tr>
+                }
+            </tbody>
+
+
+            <tbody>
+            </tbody>
+        </table>
+    }
+
+</div>
+

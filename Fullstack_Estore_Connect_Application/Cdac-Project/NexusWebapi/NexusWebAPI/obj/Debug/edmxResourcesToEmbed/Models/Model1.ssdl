@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EstoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cart">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="userId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CartItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="cartId" Type="int" Nullable="false" />
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="qty" Type="int" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="odate" Type="datetime" Nullable="false" />
+    <Property Name="ototal" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ostatus" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="userId" Type="int" Nullable="false" />
+    <Property Name="shopId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="orderId" Type="int" Nullable="false" />
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="qty" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pmanufacture" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pweight " Type="float" Nullable="false" />
+    <Property Name="p_price_before" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="p_price_after" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="pimage" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductCategory">
+    <Key>
+      <PropertyRef Name="pcatId" />
+    </Key>
+    <Property Name="pcatId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pcategory" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cat_description" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductDeteil">
+    <Key>
+      <PropertyRef Name="productId" />
+    </Key>
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="pcatId" Type="int" Nullable="false" />
+    <Property Name="psubcatId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductShop">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="shopId" Type="int" Nullable="false" />
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="pstatus" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pregistrationdate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductSubcategory">
+    <Key>
+      <PropertyRef Name="psubcatId" />
+    </Key>
+    <Property Name="psubcatId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="psubcategory" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="subcatdesciption" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Shop">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Shopname" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="lname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="address" Type="varchar(max)" Nullable="false" />
+    <Property Name="mobile" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="city" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pincode" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="enable" Type="int" />
+    <Property Name="usertype" Type="varchar" MaxLength="50" />
+    <Property Name="registrationdate" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_Cart_ToTable">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CartItem_ToTable">
+    <End Role="Cart" Type="Self.Cart" Multiplicity="1" />
+    <End Role="CartItem" Type="Self.CartItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cart">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CartItem">
+        <PropertyRef Name="cartId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CartItem_ToTable_1">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="CartItem" Type="Self.CartItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CartItem">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_ToTable">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_ToTable_1">
+    <End Role="Shop" Type="Self.Shop" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="shopId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItem_ToTable">
+    <End Role="Order" Type="Self.Order" Multiplicity="1" />
+    <End Role="OrderItem" Type="Self.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="orderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItem_ToTable_1">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="OrderItem" Type="Self.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductDeteil_ToTable">
+    <End Role="Product" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ProductDeteil" Type="Self.ProductDeteil" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductDeteil">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductDeteil_ToTable_1">
+    <End Role="ProductCategory" Type="Self.ProductCategory" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ProductDeteil" Type="Self.ProductDeteil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory">
+        <PropertyRef Name="pcatId" />
+      </Principal>
+      <Dependent Role="ProductDeteil">
+        <PropertyRef Name="pcatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductDeteil_ToTable_2">
+    <End Role="ProductSubcategory" Type="Self.ProductSubcategory" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ProductDeteil" Type="Self.ProductDeteil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductSubcategory">
+        <PropertyRef Name="psubcatId" />
+      </Principal>
+      <Dependent Role="ProductDeteil">
+        <PropertyRef Name="psubcatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductShop_ToTable">
+    <End Role="Shop" Type="Self.Shop" Multiplicity="1" />
+    <End Role="ProductShop" Type="Self.ProductShop" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductShop">
+        <PropertyRef Name="shopId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductShop_ToTable_1">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ProductShop" Type="Self.ProductShop" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductShop">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Shop_ToTable">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Shop" Type="Self.Shop" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Shop">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EstoreModelStoreContainer">
+    <EntitySet Name="Cart" EntityType="Self.Cart" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CartItem" EntityType="Self.CartItem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Order" EntityType="Self.Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderItem" EntityType="Self.OrderItem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductCategory" EntityType="Self.ProductCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductDeteil" EntityType="Self.ProductDeteil" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductShop" EntityType="Self.ProductShop" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductSubcategory" EntityType="Self.ProductSubcategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shop" EntityType="Self.Shop" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Cart_ToTable" Association="Self.FK_Cart_ToTable">
+      <End Role="User" EntitySet="User" />
+      <End Role="Cart" EntitySet="Cart" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CartItem_ToTable" Association="Self.FK_CartItem_ToTable">
+      <End Role="Cart" EntitySet="Cart" />
+      <End Role="CartItem" EntitySet="CartItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CartItem_ToTable_1" Association="Self.FK_CartItem_ToTable_1">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="CartItem" EntitySet="CartItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_ToTable" Association="Self.FK_Order_ToTable">
+      <End Role="User" EntitySet="User" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_ToTable_1" Association="Self.FK_Order_ToTable_1">
+      <End Role="Shop" EntitySet="Shop" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItem_ToTable" Association="Self.FK_OrderItem_ToTable">
+      <End Role="Order" EntitySet="Order" />
+      <End Role="OrderItem" EntitySet="OrderItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItem_ToTable_1" Association="Self.FK_OrderItem_ToTable_1">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="OrderItem" EntitySet="OrderItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductDeteil_ToTable" Association="Self.FK_ProductDeteil_ToTable">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductDeteil" EntitySet="ProductDeteil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductDeteil_ToTable_1" Association="Self.FK_ProductDeteil_ToTable_1">
+      <End Role="ProductCategory" EntitySet="ProductCategory" />
+      <End Role="ProductDeteil" EntitySet="ProductDeteil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductDeteil_ToTable_2" Association="Self.FK_ProductDeteil_ToTable_2">
+      <End Role="ProductSubcategory" EntitySet="ProductSubcategory" />
+      <End Role="ProductDeteil" EntitySet="ProductDeteil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductShop_ToTable" Association="Self.FK_ProductShop_ToTable">
+      <End Role="Shop" EntitySet="Shop" />
+      <End Role="ProductShop" EntitySet="ProductShop" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductShop_ToTable_1" Association="Self.FK_ProductShop_ToTable_1">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductShop" EntitySet="ProductShop" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Shop_ToTable" Association="Self.FK_Shop_ToTable">
+      <End Role="User" EntitySet="User" />
+      <End Role="Shop" EntitySet="Shop" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

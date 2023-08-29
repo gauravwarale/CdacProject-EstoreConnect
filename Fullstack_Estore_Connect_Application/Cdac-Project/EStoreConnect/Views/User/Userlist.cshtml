@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Userlist";
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model List<EStoreConnect.Models.User>
+<div class=" table table-hover">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>UserId</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Address</th>
+                <th>Mobile</th>
+                <th>Pincode</th>
+                <th>UserType</th>
+                <th>Registration Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.fname @user.lname</td>
+                    <td>@user.email</td>
+                    <td>@user.address</td>
+                    <td>@user.mobile</td>
+                    <td>@user.pincode</td>
+                    <td>@user.usertype</td>
+                    <td>@user.registrationdate</td>
+
+                    <td><a class="btn btn-danger" href="/User/Delete/@user.Id">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+

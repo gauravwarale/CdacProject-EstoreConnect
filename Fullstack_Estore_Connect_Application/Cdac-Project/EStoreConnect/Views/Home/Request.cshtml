@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Request";
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model List<EStoreConnect.Models.User>
+    <div style="display:center;justify-content:center;justify-items:center">
+        @if (ViewBag.empty == null)
+        {
+            <center><label class="page-header" style="color:white;font-weight:bold;font-size:larger">Requests</label></center>
+        <table class="table table-responsive table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Address</th>
+                    <th>MobileNo</th>
+                    <th>City</th>
+                    <th>Pincode</th>
+                    <th><center>Action</center></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var list in Model)
+                {
+                    <tr>
+                        <th>@list.fname @list.lname</th>
+                        <th>@list.email</th>
+                        <th>@list.address</th>
+                        <th>@list.mobile</th>
+                        <th>@list.city</th>
+                        <th>@list.pincode</th>
+                       <th><a class="btn btn-success" href="/Home/AcceptRequest/@list.Id" name="Accept">Accept</a>
+                           <a class="btn btn-danger" href="/Home/cancelRequest/@list.Id" name="Cancel">Cancel</a>
+                        </th>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        }
+        else
+            {
+                <h2 class="alert-info">@ViewBag.empty</h2>
+            }
+    </div>
+
+

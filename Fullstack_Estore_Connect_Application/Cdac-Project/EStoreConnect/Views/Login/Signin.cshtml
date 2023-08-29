@@ -1,0 +1,110 @@
+﻿@*
+       <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.title</title>
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <script src="~/Scripts/bootstrap.js"></script>
+        <script src="~/Scripts/jquery-1.9.1.js"></script>
+       <script src="~/Content/nav.css"></script>
+        <style>
+            input[type="search"]::placeholder {
+                text-align: center
+            }
+        </style>
+    </head>
+    <body>
+
+        <div class="container-fluid">
+            <div class="jumbotron" style="height:210px;background-color:#333333;border-radius:10px">
+                <div class="row">
+                    <div class="col-lg-3" style="">
+                        <img src="~/Logo/e-nexus-logo.png" style="height:100px;width:120px" />
+                    </div>
+                    <div class="col-lg-6">
+                        <center>
+                            <h3 style="color:ghostwhite">E-Store Connect The Digital Nexus</h3>
+                            <input type="search" class="glyphicon-search" placeholder="Search" size="50" style="border-radius:10px;height:30px" />
+                        </center>
+                    </div>
+                    <div class="col-lg-3" style="display:flex;justify-content:center;align-items:center">
+                        <center>
+                            <img src="~/Logo/imagesadmin.png" height="50" width="50" style="border-radius:150px" />
+                            <p style="color:white">Admin</p>
+                        </center>
+
+                    </div>
+                </div>
+
+*@
+
+
+
+
+
+
+
+
+@model EStoreConnect.Controllers.LoginController
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Signin</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+</head>
+<body>
+    
+    <div class="container-fluid">
+        @*-------------------------------------------------------------------*@
+
+
+        <div class="jumbotron" style="height:210px;background-color:#333333;border-radius:10px">
+            <div class="row">
+                <div class="col-lg-3" style="">
+                    <img src="~/Logo/e-nexus-logo.png" style="height:100px;width:120px" />
+                </div>
+                <div class="col-lg-6">
+                    <center>
+                        <h3 style="color:ghostwhite;font-size:35px">E-Store Connect The Digital Nexus</h3>
+
+                    </center>
+                </div>
+                <div class="col-lg-3" style="display:flex;justify-content:center;align-items:center">
+                    <center>
+                        <img src="~/Logo/imagesadmin.png" height="50" width="50" style="border-radius:150px" />
+                        <p style="color:white"></p>
+                    </center>
+
+                </div>
+            </div>
+            <br /><br />
+
+
+
+
+
+            @*----------------------------------------------------------------*@
+        <div style="display: flex; justify-content: center; align-items: center; height: 52vh;">
+            <form method="post" action="/Login/Signin" style="max-width: 400px; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);">
+                <h2 style="text-align: center; margin-bottom: 20px;">Admin Login</h2>
+                <div style="margin-bottom: 15px;">
+                    <label for="username" style="display: block; margin-bottom: 5px;">Username:</label>
+                    <input type="email" id="username" name="username" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" placeholder="Enter your username" required autofocus>
+                </div>
+                <div style="margin-bottom: 15px;">
+                    <label for="password" style="display: block; margin-bottom: 5px;">Password:</label>
+                    <input type="password" id="password" name="password" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" placeholder="Enter your password" required>
+                </div>
+                <div style="display: grid; gap: 10px;">
+                    <button class="btn btn-primary" type="submit" style="width: 100%;">Sign In</button>
+                </div>
+            </form>
+        </div>
+        </div>
+    </div>
+</body>
+</html>

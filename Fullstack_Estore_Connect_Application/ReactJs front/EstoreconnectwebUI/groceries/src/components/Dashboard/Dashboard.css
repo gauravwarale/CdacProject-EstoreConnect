@@ -1,0 +1,97 @@
+.navbar {
+  background: #6d6dff;
+}
+.cartImg {
+  width: 2vw !important;
+  height: 3vh !important;
+}
+.addDropdown {
+  width: 12vw !important;
+  margin-right: 10px;
+  padding: 7px;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+}
+
+.category-header {
+  border-bottom: 1px solid #d2d2d2;
+  padding-bottom: 5px;
+  box-shadow: 1px 3px #dadada;
+  color: white;
+  font-weight: 500;
+  background: #a8a8ff;
+  padding: 1rem;
+}
+
+.subCatDiv {
+  margin-left: 3vw;
+  /* margin-top: 5vh; */
+  /* width: 15vw; */
+  background: white;
+}
+
+.subCat {
+  padding: 2vw;
+  border: 1px solid #e4e4e4;
+  margin: 0px;
+}
+
+.imgSection {
+  height: 12vh;
+  /* width: 22vw; */
+  border: 1px solid #e4e4e4;
+}
+.productRow {
+  margin: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.addBtn {
+  color: white !important;
+  background: #6d6dff !important;
+  width: 7vw;
+  /* height: 8vh; */
+  margin-right: 1rem;
+  border-radius: 0px !important;
+}
+
+button:hover .addBtn {
+  color: #6d6dff !important;
+  border: 1px solid #6d6dff !important;
+}
+.name-weight {
+  margin-left: 1rem;
+}
+.productHeader {
+  text-align: left;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+.productHeader .name,
+.price {
+  font-weight: 500;
+  margin-bottom: 1rem;
+  padding: 0.25rem 0.5rem 0.1rem 1rem !important;
+}
+.productHeader .weight {
+  color: #a3a3a3;
+  margin-bottom: 1rem;
+  padding: 0.25rem 0.5rem 0.1rem 1rem;
+}
+
+.dashboadCard {
+  border: none !important;
+  border-radius: 0px;
+  background: white;
+}
+
+.moreDropdown {
+  border: none;
+  background: transparent;
+  color: white;
+}
+.input-group-append {
+  background: white !important;
+  color: #6d6dff !important;
+}

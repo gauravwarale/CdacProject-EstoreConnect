@@ -1,0 +1,18 @@
+.card {
+  z-index: -1 !important;
+}
+
+.userIcon {
+  width: 2vw !important;
+  height: 4vh !important;
+}
+
+.popover {
+  position: absolute;
+  right: 1rem;
+  top: 4rem;
+  width: 15vw;
+}
+.ShopNameMargin {
+  margin-right: 1vw;
+}

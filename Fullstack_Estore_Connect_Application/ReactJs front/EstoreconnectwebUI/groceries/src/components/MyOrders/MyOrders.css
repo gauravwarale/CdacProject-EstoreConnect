@@ -1,0 +1,37 @@
+.orderBox,
+.detailsBox {
+  margin-left: 14vw;
+  width: 65vw;
+  margin-top: 1rem;
+  height: 100vh;
+}
+.orderTh {
+  background: white;
+  padding: 5px 5px;
+  color: #6d6dff;
+}
+
+.viewDetailsBtn {
+  background: green;
+  color: white;
+  border-radius: 0px;
+  padding: 5px;
+  font-size: 14px;
+}
+.productRow {
+  /* margin: 8px; */
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.backBtnDiv {
+  margin-left: 15vw;
+  margin-top: 7vh;
+}
+
+.backBtnDiv button {
+  background: white;
+  color: #6d6dff;
+  border: 1px solid #6d6dff;
+  border-radius: 0px;
+}

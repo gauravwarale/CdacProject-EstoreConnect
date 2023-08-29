@@ -1,0 +1,504 @@
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EStoreConnect.dll.config
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EStoreConnect.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EStoreConnect.pdb
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\csc.exe
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\csc.exe.config
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\csc.rsp
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\csi.exe
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\csi.exe.config
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\csi.rsp
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.AppContext.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Collections.Immutable.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Console.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Globalization.Calendars.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.IO.Compression.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.IO.FileSystem.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Net.Http.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Net.Sockets.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Reflection.Metadata.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.ValueTuple.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Xml.XPath.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\vbc.exe
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\vbc.exe.config
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\vbc.rsp
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\VBCSCompiler.exe
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\roslyn\VBCSCompiler.exe.config
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EntityFramework.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EntityFramework.SqlServer.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\Microsoft.Web.Infrastructure.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\Newtonsoft.Json.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Net.Http.Formatting.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Helpers.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Http.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Http.WebHost.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Mvc.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Razor.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Webpages.Deployment.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Webpages.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Webpages.Razor.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EntityFramework.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\EntityFramework.SqlServer.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Razor.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Webpages.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Webpages.Deployment.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Webpages.Razor.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Helpers.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Mvc.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\Newtonsoft.Json.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Net.Http.Formatting.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Http.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\System.Web.Http.WebHost.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projectdata\E_Store_Connect\EStoreConnect\obj\Debug\EStoreConnect.csproj.AssemblyReference.cache
+D:\projectdata\E_Store_Connect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CoreCompileInputs.cache
+D:\projectdata\E_Store_Connect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CopyComplete
+D:\projectdata\E_Store_Connect\EStoreConnect\obj\Debug\EStoreConnect.dll
+D:\projectdata\E_Store_Connect\EStoreConnect\obj\Debug\EStoreConnect.pdb
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EStoreConnect.dll.config
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EStoreConnect.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EStoreConnect.pdb
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\csc.exe
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\csc.exe.config
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\csc.rsp
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\csi.exe
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\csi.exe.config
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\csi.rsp
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.AppContext.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Collections.Immutable.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Console.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Globalization.Calendars.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.Compression.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.FileSystem.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Net.Http.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Net.Sockets.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Reflection.Metadata.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.ValueTuple.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XPath.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\vbc.exe
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\vbc.exe.config
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\vbc.rsp
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\VBCSCompiler.exe
+D:\projectdata\EstoreConnect\EStoreConnect\bin\roslyn\VBCSCompiler.exe.config
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EntityFramework.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EntityFramework.SqlServer.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\Microsoft.Web.Infrastructure.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\Newtonsoft.Json.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Net.Http.Formatting.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Helpers.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Http.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Http.WebHost.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Mvc.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Razor.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Deployment.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Razor.dll
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EntityFramework.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\EntityFramework.SqlServer.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Razor.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Deployment.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Razor.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Helpers.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Mvc.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\Newtonsoft.Json.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Net.Http.Formatting.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Http.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\System.Web.Http.WebHost.xml
+D:\projectdata\EstoreConnect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projectdata\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.AssemblyReference.cache
+D:\projectdata\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CoreCompileInputs.cache
+D:\projectdata\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CopyComplete
+D:\projectdata\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.dll
+D:\projectdata\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.pdb
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EStoreConnect.dll.config
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EStoreConnect.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EStoreConnect.pdb
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csc.exe
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csc.exe.config
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csc.rsp
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csi.exe
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csi.exe.config
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csi.rsp
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.AppContext.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Collections.Immutable.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Console.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Globalization.Calendars.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.Compression.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.FileSystem.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Net.Http.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Net.Sockets.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Reflection.Metadata.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.ValueTuple.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XPath.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\vbc.exe
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\vbc.exe.config
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\vbc.rsp
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\VBCSCompiler.exe
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\VBCSCompiler.exe.config
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.SqlServer.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\Microsoft.Web.Infrastructure.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\Newtonsoft.Json.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Net.Http.Formatting.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Helpers.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.WebHost.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Mvc.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Razor.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Deployment.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Razor.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.SqlServer.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Razor.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Deployment.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Razor.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Helpers.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Mvc.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\Newtonsoft.Json.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Net.Http.Formatting.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.WebHost.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.AssemblyReference.cache
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CoreCompileInputs.cache
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CopyComplete
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.dll
+D:\projectdata\Web Api_MVC_Admin\EstoreConnect -Evening Work-18-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.pdb
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EStoreConnect.dll.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EStoreConnect.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EStoreConnect.pdb
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csc.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csc.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csc.rsp
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csi.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csi.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\csi.rsp
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.AppContext.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Collections.Immutable.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Console.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Globalization.Calendars.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.Compression.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.FileSystem.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Net.Http.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Net.Sockets.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Reflection.Metadata.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.ValueTuple.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XPath.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\vbc.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\vbc.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\vbc.rsp
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\VBCSCompiler.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\roslyn\VBCSCompiler.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.SqlServer.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\Microsoft.Web.Infrastructure.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\Newtonsoft.Json.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Net.Http.Formatting.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Helpers.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.WebHost.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Mvc.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Razor.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Deployment.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Razor.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\EntityFramework.SqlServer.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Razor.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Deployment.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Webpages.Razor.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Helpers.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Mvc.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\Newtonsoft.Json.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Net.Http.Formatting.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\System.Web.Http.WebHost.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.AssemblyReference.cache
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CoreCompileInputs.cache
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.csproj.CopyComplete
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\EStoreConnect\obj\Debug\EStoreConnect.pdb
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EStoreConnect.dll.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EStoreConnect.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EStoreConnect.pdb
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\csc.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\csc.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\csc.rsp
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\csi.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\csi.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\csi.rsp
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.AppContext.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Console.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.Compression.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Net.Http.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.ValueTuple.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\vbc.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\vbc.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\vbc.rsp
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\VBCSCompiler.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EntityFramework.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EntityFramework.SqlServer.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\Newtonsoft.Json.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Net.Http.Formatting.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Helpers.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Http.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Http.WebHost.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Mvc.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Razor.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Deployment.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Razor.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EntityFramework.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\EntityFramework.SqlServer.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Razor.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Deployment.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Razor.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Helpers.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Mvc.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\Newtonsoft.Json.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Net.Http.Formatting.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Http.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\System.Web.Http.WebHost.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.csproj.AssemblyReference.cache
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.csproj.CoreCompileInputs.cache
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.csproj.CopyComplete
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.pdb
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EStoreConnect.dll.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EStoreConnect.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EStoreConnect.pdb
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\csc.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\csc.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\csc.rsp
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\csi.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\csi.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\csi.rsp
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.Managed.Core.targets
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.AppContext.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Collections.Immutable.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Console.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Globalization.Calendars.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.Compression.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.FileSystem.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Net.Http.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Net.Sockets.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Reflection.Metadata.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.ValueTuple.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.XPath.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\vbc.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\vbc.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\vbc.rsp
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\VBCSCompiler.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\roslyn\VBCSCompiler.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EntityFramework.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EntityFramework.SqlServer.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\Microsoft.Web.Infrastructure.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\Newtonsoft.Json.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Net.Http.Formatting.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Helpers.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Http.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Http.WebHost.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Mvc.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Razor.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Deployment.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Razor.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EntityFramework.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\EntityFramework.SqlServer.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Razor.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Deployment.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Webpages.Razor.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Helpers.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Mvc.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\Newtonsoft.Json.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Net.Http.Formatting.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Http.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\System.Web.Http.WebHost.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.csproj.AssemblyReference.cache
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.csproj.CoreCompileInputs.cache
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.csproj.CopyComplete
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\EStoreConnect\obj\Debug\EStoreConnect.pdb

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EstoreModelStoreContainer" CdmEntityContainer="EstoreEntities">
+    <EntitySetMapping Name="Carts">
+      <EntityTypeMapping TypeName="EstoreModel.Cart">
+        <MappingFragment StoreEntitySet="Cart">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CartItems">
+      <EntityTypeMapping TypeName="EstoreModel.CartItem">
+        <MappingFragment StoreEntitySet="CartItem">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="cartId" ColumnName="cartId" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="EstoreModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="odate" ColumnName="odate" />
+          <ScalarProperty Name="ototal" ColumnName="ototal" />
+          <ScalarProperty Name="ostatus" ColumnName="ostatus" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="shopId" ColumnName="shopId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderItems">
+      <EntityTypeMapping TypeName="EstoreModel.OrderItem">
+        <MappingFragment StoreEntitySet="OrderItem">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="orderId" ColumnName="orderId" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="EstoreModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="pmanufacture" ColumnName="pmanufacture" />
+          <ScalarProperty Name="pweight_" ColumnName="pweight " />
+          <ScalarProperty Name="p_price_before" ColumnName="p_price_before" />
+          <ScalarProperty Name="p_price_after" ColumnName="p_price_after" />
+          <ScalarProperty Name="pimage" ColumnName="pimage" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductCategories">
+      <EntityTypeMapping TypeName="EstoreModel.ProductCategory">
+        <MappingFragment StoreEntitySet="ProductCategory">
+          <ScalarProperty Name="pcatId" ColumnName="pcatId" />
+          <ScalarProperty Name="pcategory" ColumnName="pcategory" />
+          <ScalarProperty Name="cat_description" ColumnName="cat_description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductDeteils">
+      <EntityTypeMapping TypeName="EstoreModel.ProductDeteil">
+        <MappingFragment StoreEntitySet="ProductDeteil">
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="pcatId" ColumnName="pcatId" />
+          <ScalarProperty Name="psubcatId" ColumnName="psubcatId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductShops">
+      <EntityTypeMapping TypeName="EstoreModel.ProductShop">
+        <MappingFragment StoreEntitySet="ProductShop">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="shopId" ColumnName="shopId" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="pstatus" ColumnName="pstatus" />
+          <ScalarProperty Name="pregistrationdate" ColumnName="pregistrationdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductSubcategories">
+      <EntityTypeMapping TypeName="EstoreModel.ProductSubcategory">
+        <MappingFragment StoreEntitySet="ProductSubcategory">
+          <ScalarProperty Name="psubcatId" ColumnName="psubcatId" />
+          <ScalarProperty Name="psubcategory" ColumnName="psubcategory" />
+          <ScalarProperty Name="subcatdesciption" ColumnName="subcatdesciption" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shops">
+      <EntityTypeMapping TypeName="EstoreModel.Shop">
+        <MappingFragment StoreEntitySet="Shop">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Shopname" ColumnName="Shopname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="EstoreModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="fname" ColumnName="fname" />
+          <ScalarProperty Name="lname" ColumnName="lname" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="pincode" ColumnName="pincode" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="enable" ColumnName="enable" />
+          <ScalarProperty Name="usertype" ColumnName="usertype" />
+          <ScalarProperty Name="registrationdate" ColumnName="registrationdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

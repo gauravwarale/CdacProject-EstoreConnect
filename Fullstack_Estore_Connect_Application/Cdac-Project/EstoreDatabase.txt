@@ -1,0 +1,121 @@
+CREATE TABLE [dbo].[User] (
+    [Id]               INT           IDENTITY (1, 1) NOT NULL,
+    [fname]            VARCHAR (50)  NOT NULL,
+    [lname]            VARCHAR (50)  NOT NULL,
+    [email]            VARCHAR (50)  NOT NULL,
+    [address]          VARCHAR (MAX) NOT NULL,
+    [mobile]           VARCHAR (50)  NOT NULL,
+    [city]             VARCHAR (50)  NOT NULL,
+    [pincode]          VARCHAR (50)  NOT NULL,
+    [password]         VARCHAR (50)  NOT NULL,
+    [enable]           INT           DEFAULT ((0)) NULL,
+    [usertype]         VARCHAR (50)  DEFAULT ('CUSTOMER') NULL,
+    [registrationdate] DATETIME      DEFAULT (((13)-(3))-(2023)) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    UNIQUE NONCLUSTERED ([email] ASC)
+);
+GO
+CREATE TABLE [dbo].[Cart] (
+    [Id]     INT IDENTITY (50, 1) NOT NULL,
+    [userId] INT NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_Cart_ToTable] FOREIGN KEY ([userId]) REFERENCES [dbo].[User] ([Id])
+);
+
+GO
+CREATE NONCLUSTERED INDEX [IX_Table_Column]
+    ON [dbo].[User]([Id] ASC);
+
+CREATE TABLE [dbo].[Shop] (
+    [Id]       INT          NOT NULL,
+    [Shopname] VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_Shop_ToTable] FOREIGN KEY ([Id]) REFERENCES [dbo].[User] ([Id])
+);
+
+GO
+CREATE TABLE [dbo].[Product] (
+    [Id]             INT          IDENTITY (100, 1) NOT NULL,
+    [pname]          VARCHAR (50) NOT NULL,
+    [pmanufacture]   VARCHAR (50) NOT NULL,
+    [pweight ]       FLOAT (53)   NOT NULL,
+    [p_price_before] DECIMAL (18) NOT NULL,
+    [p_price_after]  DECIMAL (18) NOT NULL,
+    [pimage]         VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+GO
+CREATE TABLE [dbo].[ProductCategory] (
+    [pcatId]          INT          IDENTITY (500, 1) NOT NULL,
+    [pcategory]       VARCHAR (50) NOT NULL,
+    [cat_description] VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([pcatId] ASC)
+);
+
+GO
+CREATE TABLE [dbo].[ProductSubcategory] (
+    [psubcatId]        INT          IDENTITY (5000, 1) NOT NULL,
+    [psubcategory]     VARCHAR (50) NOT NULL,
+    [subcatdesciption] VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([psubcatId] ASC)
+);
+
+GO
+CREATE TABLE [dbo].[ProductDeteil] (
+    [productId] INT NOT NULL,
+    [pcatId]    INT NOT NULL,
+    [psubcatId] INT NOT NULL,
+    PRIMARY KEY CLUSTERED ([productId] ASC),
+    CONSTRAINT [FK_ProductDeteil_ToTable_1] FOREIGN KEY ([pcatId]) REFERENCES [dbo].[ProductCategory] ([pcatId]) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT [FK_ProductDeteil_ToTable_2] FOREIGN KEY ([psubcatId]) REFERENCES [dbo].[ProductSubcategory] ([psubcatId]) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT [FK_ProductDeteil_ToTable] FOREIGN KEY ([productId]) REFERENCES [dbo].[Product] ([Id]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+GO
+CREATE TABLE [dbo].[ProductShop] (
+    [Id]                INT          IDENTITY (200, 1) NOT NULL,
+    [shopId]            INT          NOT NULL,
+    [productId]         INT          NOT NULL,
+    [pstatus]           VARCHAR (50) NOT NULL,
+    [pregistrationdate] DATETIME     NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_ProductShop_ToTable] FOREIGN KEY ([shopId]) REFERENCES [dbo].[Shop] ([Id]) ON UPDATE CASCADE,
+    CONSTRAINT [FK_ProductShop_ToTable_1] FOREIGN KEY ([productId]) REFERENCES [dbo].[Product] ([Id]) ON UPDATE CASCADE
+);
+
+GO
+CREATE TABLE [dbo].[CartItem] (
+    [Id]        INT NOT NULL,
+    [cartId]    INT NOT NULL,
+    [productId] INT NOT NULL,
+    [qty]       INT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_CartItem_ToTable] FOREIGN KEY ([cartId]) REFERENCES [dbo].[Cart] ([Id]),
+    CONSTRAINT [FK_CartItem_ToTable_1] FOREIGN KEY ([productId]) REFERENCES [dbo].[Product] ([Id])
+);
+GO
+CREATE TABLE [dbo].[Order] (
+    [Id]      INT          IDENTITY (1000, 1) NOT NULL,
+    [odate]   DATETIME     NOT NULL,
+    [ototal]  DECIMAL (18) DEFAULT ((0)) NOT NULL,
+    [ostatus] VARCHAR (50) NOT NULL,
+    [userId]  INT          NOT NULL,
+    [shopId]  INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_Order_ToTable] FOREIGN KEY ([userId]) REFERENCES [dbo].[User] ([Id]),
+    CONSTRAINT [FK_Order_ToTable_1] FOREIGN KEY ([shopId]) REFERENCES [dbo].[Shop] ([Id])
+);
+GO
+CREATE TABLE [dbo].[OrderItem] (
+    [Id]        INT IDENTITY (1, 1) NOT NULL,
+    [orderId]   INT NOT NULL,
+    [productId] INT NOT NULL,
+    [qty]       INT DEFAULT ((1)) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_OrderItem_ToTable_1] FOREIGN KEY ([productId]) REFERENCES [dbo].[Product] ([Id]),
+    CONSTRAINT [FK_OrderItem_ToTable] FOREIGN KEY ([orderId]) REFERENCES [dbo].[Order] ([Id])
+);
+
+
+

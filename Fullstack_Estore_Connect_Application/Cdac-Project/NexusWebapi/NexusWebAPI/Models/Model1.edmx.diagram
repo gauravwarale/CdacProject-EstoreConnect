@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e75a538e11624dd8b6a4c18697640a60" Name="Diagram1">
+        <EntityTypeShape EntityType="EstoreModel.Cart" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.CartItem" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.Order" Width="1.5" PointX="0.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.OrderItem" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.Product" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.ProductCategory" Width="1.5" PointX="0.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.ProductDeteil" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.ProductShop" Width="1.5" PointX="6" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.ProductSubcategory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.Shop" Width="1.5" PointX="1.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.User" Width="1.5" PointX="1.5" PointY="19.625" IsExpanded="true" />
+        <AssociationConnector Association="EstoreModel.FK_Cart_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_CartItem_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_CartItem_ToTable_1" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_Order_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_Order_ToTable_1" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_OrderItem_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_OrderItem_ToTable_1" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_ProductDeteil_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_ProductShop_ToTable_1" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_ProductDeteil_ToTable_1" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_ProductDeteil_ToTable_2" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_ProductShop_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_Shop_ToTable" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

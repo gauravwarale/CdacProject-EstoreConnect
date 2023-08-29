@@ -1,0 +1,81 @@
+.card1 {
+  border: none !important;
+  border-radius: 0px;
+  background: white;
+  width: 18vw;
+}
+
+.imgSectionCart {
+  height: 14vh;
+  width: 10vw;
+  border: 1px solid #e4e4e4;
+}
+
+.addProdButtonCart {
+  display: flex;
+  background: green;
+  /* padding: 6px 13px; */
+  padding: 7px;
+  color: white;
+  /* text-align: center; */
+  justify-content: center;
+  margin-top: 2vh;
+}
+
+.addProdButtonCart span {
+  padding: 5px;
+}
+
+.price {
+  padding-left: 0px;
+}
+.weight {
+  color: grey;
+}
+.login-container {
+  position: relative;
+  z-index: 1;
+  max-width: 500px;
+  /* margin: 0 auto; */
+  margin-left: 0px;
+
+}
+.box {
+  width: 50%;
+  height: auto;
+}
+
+.close-iconCart {
+  content: "x";
+  cursor: pointer;
+  position: fixed;
+  right: calc(36% - 30px) !important;
+  top: calc(100vh - 94vh - 33px);
+  background: #ededed;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #999;
+  font-size: 20px;
+}
+
+.billingCart {
+  margin: 20px;
+  color: grey;
+  margin-bottom: 3rem;
+}
+
+.billingCart .billingHeader {
+  /* text-align: center; */
+  justify-content: center;
+  font-size: 18px;
+  color: black;
+  margin: 15px;
+}
+
+td {
+  text-align: left;
+  padding-left: 5px;
+}

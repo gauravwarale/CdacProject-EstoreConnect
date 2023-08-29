@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="E_storeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="E_storeModelStoreContainer">
+    <EntitySet Name="Users" EntityType="E_storeModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Shops" EntityType="E_storeModel.Store.Shops" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Products" EntityType="E_storeModel.Store.Products" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ProductCategories" EntityType="E_storeModel.Store.ProductCategories" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ProductSubCategories" EntityType="E_storeModel.Store.ProductSubCategories" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="E_storeModel.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderItems" EntityType="E_storeModel.Store.OrderItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Carts" EntityType="E_storeModel.Store.Carts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CartItems" EntityType="E_storeModel.Store.CartItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ProductShop" EntityType="E_storeModel.Store.ProductShop" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="UserOrder" Association="E_storeModel.Store.UserOrder">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="UserCart" Association="E_storeModel.Store.UserCart">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="CartCartItem" Association="E_storeModel.Store.CartCartItem">
+      <End Role="Cart" EntitySet="Carts" />
+      <End Role="CartItem" EntitySet="CartItems" />
+    </AssociationSet>
+    <AssociationSet Name="OrderOrderItem" Association="E_storeModel.Store.OrderOrderItem">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderItem" EntitySet="OrderItems" />
+    </AssociationSet>
+    <AssociationSet Name="ProductOrderItem" Association="E_storeModel.Store.ProductOrderItem">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="OrderItem" EntitySet="OrderItems" />
+    </AssociationSet>
+    <AssociationSet Name="ProductCategoryProduct" Association="E_storeModel.Store.ProductCategoryProduct">
+      <End Role="ProductCategory" EntitySet="ProductCategories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="ProductCategoryProductSubCategory" Association="E_storeModel.Store.ProductCategoryProductSubCategory">
+      <End Role="ProductCategory" EntitySet="ProductCategories" />
+      <End Role="ProductSubCategory" EntitySet="ProductSubCategories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductShop_Product" Association="E_storeModel.Store.FK_ProductShop_Product">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="ProductShop" EntitySet="ProductShop" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductShop_Shop" Association="E_storeModel.Store.FK_ProductShop_Shop">
+      <End Role="Shop" EntitySet="Shops" />
+      <End Role="ProductShop" EntitySet="ProductShop" />
+    </AssociationSet>
+    <AssociationSet Name="ProductSubCategoryProduct" Association="E_storeModel.Store.ProductSubCategoryProduct">
+      <End Role="ProductSubCategory" EntitySet="ProductSubCategories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="UserShop" Association="E_storeModel.Store.UserShop">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Shop" EntitySet="Shops" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="lastname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="address" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="mobileno" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="city" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="pincode" Type="nchar" Nullable="false" MaxLength="6" />
+    <Property Name="password" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="enable" Type="int" Nullable="false" />
+    <Property Name="u_registration_date" Type="datetime" Nullable="false" />
+    <Property Name="usertype" Type="nvarchar(max)" Nullable="false" DefaultValue="CUSTOMER" />
+  </EntityType>
+  <EntityType Name="Shops">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="shopname" Type="nvarchar(max)" Nullable="false" DefaultValue="Shopname" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_manufacture" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_weight" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_price_before" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_price_after" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_image" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ProductCategory_p_category" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ProductSubCategory_p_sub_category" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductCategories">
+    <Key>
+      <PropertyRef Name="p_category" />
+    </Key>
+    <Property Name="p_category" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_cat_description" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductSubCategories">
+    <Key>
+      <PropertyRef Name="p_sub_category" />
+    </Key>
+    <Property Name="p_sub_category" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="p_sub_cat_description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ProductCategory_p_category" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="o_date" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="o_total" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="o_status" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderItems">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_qty" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="OrderId" Type="int" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Carts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CartItems">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_qty" Type="int" Nullable="false" />
+    <Property Name="CartId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductShop">
+    <Key>
+      <PropertyRef Name="Products_Id" />
+      <PropertyRef Name="Shops_Id" />
+    </Key>
+    <Property Name="Products_Id" Type="int" Nullable="false" />
+    <Property Name="Shops_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="UserOrder">
+    <End Role="User" Type="E_storeModel.Store.Users" Multiplicity="1" />
+    <End Role="Order" Type="E_storeModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UserCart">
+    <End Role="User" Type="E_storeModel.Store.Users" Multiplicity="1" />
+    <End Role="Cart" Type="E_storeModel.Store.Carts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CartCartItem">
+    <End Role="Cart" Type="E_storeModel.Store.Carts" Multiplicity="1" />
+    <End Role="CartItem" Type="E_storeModel.Store.CartItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cart">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CartItem">
+        <PropertyRef Name="CartId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrderOrderItem">
+    <End Role="Order" Type="E_storeModel.Store.Orders" Multiplicity="1" />
+    <End Role="OrderItem" Type="E_storeModel.Store.OrderItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductOrderItem">
+    <End Role="Product" Type="E_storeModel.Store.Products" Multiplicity="1" />
+    <End Role="OrderItem" Type="E_storeModel.Store.OrderItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductCategoryProduct">
+    <End Role="ProductCategory" Type="E_storeModel.Store.ProductCategories" Multiplicity="1" />
+    <End Role="Product" Type="E_storeModel.Store.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory">
+        <PropertyRef Name="p_category" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="ProductCategory_p_category" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductCategoryProductSubCategory">
+    <End Role="ProductCategory" Type="E_storeModel.Store.ProductCategories" Multiplicity="1" />
+    <End Role="ProductSubCategory" Type="E_storeModel.Store.ProductSubCategories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory">
+        <PropertyRef Name="p_category" />
+      </Principal>
+      <Dependent Role="ProductSubCategory">
+        <PropertyRef Name="ProductCategory_p_category" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductSubCategoryProduct">
+    <End Role="ProductSubCategory" Type="E_storeModel.Store.ProductSubCategories" Multiplicity="1" />
+    <End Role="Product" Type="E_storeModel.Store.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductSubCategory">
+        <PropertyRef Name="p_sub_category" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="ProductSubCategory_p_sub_category" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UserShop">
+    <End Role="User" Type="E_storeModel.Store.Users" Multiplicity="1" />
+    <End Role="Shop" Type="E_storeModel.Store.Shops" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Shop">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductShop_Product">
+    <End Role="Product" Type="E_storeModel.Store.Products" Multiplicity="1" />
+    <End Role="ProductShop" Type="E_storeModel.Store.ProductShop" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductShop">
+        <PropertyRef Name="Products_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductShop_Shop">
+    <End Role="ProductShop" Type="E_storeModel.Store.ProductShop" Multiplicity="*" />
+    <End Role="Shop" Type="E_storeModel.Store.Shops" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductShop">
+        <PropertyRef Name="Shops_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

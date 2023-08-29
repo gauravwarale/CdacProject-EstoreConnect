@@ -1,0 +1,112 @@
+﻿@{
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model EStoreConnect.Models.DashBoard
+<div class="table table-striped" style="color: aliceblue; background-color: #574d4d;">
+    <center><h3 class="page-header" style="color:#cfbfbf">DashBoard</h3></center>
+    <div style="justify-content:center;align-items:center;display:flex">
+        <div class="row" style="color:black">
+            <div class="col-lg-2" style="margin-left:20px;border-radius:25px;height:200px;width:180px;background-color:white;display:flex;justify-content:center;align-items:center;color:black">
+                <div style="display:flex;justify-content:center;align-items:center">
+                    <table>
+                        <tr>
+                            <th>
+                                <center>
+                                    <img src="~/Logo/cutomericon.png" style="height:100px;width:100px;border-radius:50%" />
+                                </center> 
+                            </th>
+                        </tr>
+                        <tr><th><label style="font-size:medium">Total Customer:@Model.customer</label></th></tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-lg-2" style="margin-left: 20px; border-radius: 25px; height: 200px; width: 180px; background-color: white; display: flex; justify-content: center; align-items: center">
+                <div style="display:flex;justify-content:center;align-items:center">
+                    <table>
+                        <tr>
+                            <th>
+                                <center>
+                                    <img src="~/Logo/shopicon.jpg" style="height:100px;width:100px;border-radius:50%" />
+                                </center>
+                            </th>
+                        </tr>
+                        <tr><th><label style="font-size:medium">Total Shop:@Model.User</label></th></tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-lg-2" style="margin-left: 20px; border-radius: 25px; height: 200px; width: 180px; background-color: white; display: flex; justify-content: center; align-items: center">
+                <div style="display:flex;justify-content:center;align-items:center">
+                    <table>
+                        <tr>
+                            <th>
+                                <center>
+                                    <img src="~/Logo/requesticon.png" style="height:100px;width:100px;border-radius:50%" />
+                                </center>
+                            </th>
+                        </tr>
+                        <tr><th><label style="font-size:medium">Total Request:@Model.shoprequest</label></th></tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-lg-2" style="margin-left: 20px; border-radius: 25px; height: 200px; width: 180px; background-color: white; display: flex; justify-content: center; align-items: center">
+                <div style="display:flex;justify-content:center;align-items:center">
+                    <table>
+                        <tr>
+                            <th>
+                                <center>
+                                    <img src="~/Logo/producticon.jpg" style="height:100px;width:100px;border-radius:50%" />
+                                </center>
+                            </th>
+                        </tr>
+                        <tr><th><label style="font-size:medium">Total Product:@Model.product</label></th></tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-lg-2" style="margin-left: 20px; border-radius: 25px; height: 200px; width: 180px; background-color: white; display: flex; justify-content: center; align-items: center">
+                <div style="display:flex;justify-content:center;align-items:center">
+                    <table>
+                        <tr>
+                            <th>
+                                <center>
+                                    <img src="~/Logo/caticon.png" style="height:100px;width:100px;border-radius:50%" />
+                                </center>
+                            </th>
+                        </tr>
+                        <tr><th><label style="font-size:medium">Total Category:@Model.cat</label></th></tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-lg-2" style="margin-left: 20px; border-radius: 25px; height: 200px; width: 180px; background-color: white; display: flex; justify-content: center; align-items: center">
+                <div style="display:flex;justify-content:center;align-items:center">
+                    <table>
+                        <tr>
+                            <th>
+                                <center>
+                                    <img src="~/Logo/subcaticon.png" style="height:100px;width:100px;border-radius:50%" />
+                                </center>
+                            </th>
+                        </tr>
+                        <tr><th><label style="font-size:medium">Total Subcategory:@Model.subcat</label></th></tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+       
+        </div>
+        
+       
+    
+
+
+@*<table>
+            <thead>
+                <tr><th style="font-size:larger;color:antiquewhite">Total Customer:</th><th style="font-size:medium;color:#ff6a00">@Model.customer</th></tr>
+                <tr><th  style="font-size:larger;color:antiquewhite">Total Shops:</th><th  style="font-size:medium;color:#ff6a00">@Model.User</th></tr>
+                <tr><th  style="font-size:larger;color:antiquewhite">Total Product Category:</th><th style="font-size:medium;color:#ff6a00">@Model.cat</th></tr>
+                <tr><th  style="font-size:larger;color:antiquewhite">Total Product SubCategory:</th><th style="font-size:medium;color:#ff6a00">@Model.subcat</th></tr>
+                <tr><th  style="font-size:larger;color:antiquewhite">Total Product SubCategory:</th><th style="font-size:medium;color:#ff6a00">@Model.subcat</th></tr>
+                <tr><th  style="font-size:larger;color:antiquewhite">Total Product:</th><th  style="font-size:medium;color:#ff6a00">@Model.product</th></tr>
+                <tr><th  style="font-size:larger;color:antiquewhite">Total Shop Request:</th><th style="font-size:medium;color:#ff6a00">@Model.shoprequest</th></tr>
+            </thead>
+        </table>*@

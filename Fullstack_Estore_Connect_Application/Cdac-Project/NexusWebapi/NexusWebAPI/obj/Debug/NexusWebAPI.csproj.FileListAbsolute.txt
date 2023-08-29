@@ -1,0 +1,219 @@
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.AssemblyReference.cache
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.CoreCompileInputs.cache
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.dll.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.pdb
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\csc.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\csc.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\csc.rsp
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\csi.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\csi.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\csi.rsp
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.AppContext.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Console.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.Compression.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Net.Http.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Net.Sockets.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.ValueTuple.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.rsp
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\VBCSCompiler.exe
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\EntityFramework.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\EntityFramework.SqlServer.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\Newtonsoft.Json.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\System.Net.Http.Formatting.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\System.Web.Http.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\System.Web.Http.WebHost.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\EntityFramework.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\EntityFramework.SqlServer.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\Newtonsoft.Json.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\System.Net.Http.Formatting.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\System.Web.Http.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\System.Web.Http.WebHost.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.CopyComplete
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.dll
+D:\projectdata\project_from_afternoon_19-08-2023\EstoreConnect\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.pdb
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.dll.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.pdb
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csc.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csc.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csc.rsp
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csi.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csi.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csi.rsp
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Console.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.rsp
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Cors.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.AssemblyReference.cache
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.CopyComplete
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.dll
+C:\Users\amolm\OneDrive\Desktop\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.pdb
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.AssemblyReference.cache
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.CoreCompileInputs.cache
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.pdb
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.dll.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\NexusWebAPI.pdb
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csc.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csc.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csc.rsp
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csi.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csi.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\csi.rsp
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.AppContext.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Console.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.Compression.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Net.Http.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Net.Sockets.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.ValueTuple.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\vbc.rsp
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\VBCSCompiler.exe
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.SqlServer.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Newtonsoft.Json.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Net.Http.Formatting.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Cors.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.Cors.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.WebHost.dll
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\EntityFramework.SqlServer.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.Cors.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Newtonsoft.Json.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Net.Http.Formatting.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\System.Web.Http.WebHost.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final project\EstoreConnect_Digital_Nexus\EstoreConnect_Digital_Nexus\Cdac-Project\NexusWebapi\NexusWebAPI\obj\Debug\NexusWebAPI.csproj.CopyComplete

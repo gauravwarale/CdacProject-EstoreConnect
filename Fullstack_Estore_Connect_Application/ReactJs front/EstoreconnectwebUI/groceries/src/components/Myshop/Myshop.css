@@ -1,0 +1,41 @@
+
+  td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .category-header {
+    background-color: #f2f2f2;
+  }
+
+  .shop-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 25px;
+  }
+  
+  .shop-card {
+    border: 2px solid black;
+    background-color: rgb(100, 154, 196);
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .shop-table {
+    width: 100%;
+  }
+  
+  .shop-header {
+    text-align: center;
+    font-weight: bold;
+    background-color: blanchedalmond;
+  }
+  
+  .property-label {
+    font-weight: bold;
+  }
+  

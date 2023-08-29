@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "EditProduct";
+    Layout = "~/Views/shared/Master.cshtml";
+}
+@model EStoreConnect.Models.Product
+
+<div class="jumbotron" style="justify-content:center; justify-items:center; display:flex">
+    <h2 class="popover-title">Update Product</h2>
+</div>
+
+<div class="container-fluid" style="justify-content:center; justify-items:center; display:flex">
+    <form action="/Product/EditProduct" method="post">
+        <table class="table table-responsive">
+            <tr>
+                <td>Product Id: </td>
+                <td><input type="text" readonly name="Id" value="@Model.Id"  /></td>
+            </tr>
+            <tr>
+                <td>Product Name :</td>
+                <td><input class="input-group" type="text" name="pname" placeholder="Product Name" value="@Model.pname" /></td>
+            </tr>
+            <tr>
+                <td>Product Weight : </td>
+                <td><input type="text" class="input-group" name="pweight_" value="@Model.pweight_"></td>
+            </tr>
+            <tr>
+                <td>Price Before: </td>
+                <td><input type="text" value="@Model.p_price_before" class="input-group" name="p_price_before" /></td>
+            </tr>
+            <tr>
+                <td>Price After: </td>
+                <td><input class="input-group" value="@Model.p_price_after" type="text" name="p_price_after" /></td>
+            </tr>
+            <tr>
+                <td>Manufacturare: </td>
+                <td>
+                    <input type="text" name="pmanufacture" value="@Model.pmanufacture"/>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>Product Image: </td>
+                <td><img src="~/Logo/producticon.jpg"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="2"> <input type="submit" class="btn btn-success" value="Update Product" /></td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+
